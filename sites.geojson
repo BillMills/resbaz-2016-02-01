@@ -21,7 +21,7 @@
             },
             "properties": {
                 "marker-color": "#2b3990",
-                "details": "<a href='https://www.nesi.org.nz/'>Auckland</a>"
+                "details": "<a href='local.html?site=auckland'>Auckland</a>"
             }
         }
     ]
