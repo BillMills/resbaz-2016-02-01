@@ -1,0 +1,16 @@
+{
+    "type": "FeatureCollection",
+    "features": [    
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates":[144.96289,-37.79901] 
+            },
+            "properties": {
+                "marker-color": "#2b3990",
+                "details": "<a href='https://etherpad.mozilla.org/swc-instructor-retreat-2015-melbourne'>University of Melbourne</a>"
+            }
+        }
+    ]
+}
