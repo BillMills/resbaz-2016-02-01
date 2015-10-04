@@ -464,6 +464,10 @@ footer .footer-below {
     max-width: 30em;
 }
 
+.lead-image-local{
+    max-width: 15em;
+}
+
 .contact-buttons a{
     color: #000000;
     border: 1px solid #000000;
