@@ -20,11 +20,16 @@
         <script id="body" type="text/template">
             {{> navigation}}
             {{> header}}
-            <div id='maptarget' class='container'></div>
+
+            <!--map-->
+
+            {{> schedule}}
+            {{> registration}}
+            {{> speakers}}
         </script>
 
         <script type='text/javascript'>
-            layout = new ultralight(['navigation','header', 'map'], fetchData, injectMap)
+            layout = new ultralight(['navigation','header', 'map', 'schedule', 'registration', 'speakers'], fetchData)
             layout.fetchTemplates()
         </script>
     </head>
