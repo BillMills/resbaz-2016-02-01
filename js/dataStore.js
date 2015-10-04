@@ -8,10 +8,10 @@ function injectMap(){
 
 window.dataStore = {}
 
-dataStore.melbourne = {
-    'location': 'University of Melbourne',
+dataStore.auckland = {
+    'location': 'University of Auckland',
     'dates': 'February 1-3, 2016',
-    'map': 'sites/melbourne.geojson',
+    'map': 'sites/auckland.geojson',
     'days': [
         {
             'day': 'February 1',
@@ -73,10 +73,10 @@ dataStore.melbourne = {
 
 }
 
-dataStore.auckland = {
-    'location': 'University of Auckland',
+dataStore.melbourne = {
+    'location': 'University of Melbourne',
     'dates': 'February 1-3, 2016',
-    'map': 'sites/auckland.geojson',
+    'map': 'sites/melbourne.geojson',
     'days': [
         {
             'day': 'February 1',
